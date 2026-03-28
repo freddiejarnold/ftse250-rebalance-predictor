@@ -7,6 +7,9 @@ which stocks are approaching market cap thresholds for inclusion or exclusion â€
 and quantifies how many days of average daily volume (ADV) passive funds will 
 need to absorb the resulting flows.
 
+Created as a way to learn more about the operations of Intropic and how they can 
+seek market opportunities by analysing index rebalancing
+
 ## The Data
 - **Prices & volume**: Yahoo Finance API (`yfinance`) â€” 90 days of daily OHLCV
 - **Shares outstanding**: Yahoo Finance company info endpoint
